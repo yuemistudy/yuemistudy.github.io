@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yuemistudy.github.io</id>
+    <title>技术支持</title>
+    <updated>2022-05-22T03:17:53.939Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://yuemistudy.github.io"/>
+    <link rel="self" href="https://yuemistudy.github.io/atom.xml"/>
+    <logo>https://yuemistudy.github.io/images/avatar.png</logo>
+    <icon>https://yuemistudy.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 技术支持</rights>
+    <entry>
+        <title type="html"><![CDATA[技术支持]]></title>
+        <id>https://yuemistudy.github.io/post/ios-ji-zhu-zhi-chi-wang-zhi/</id>
+        <link href="https://yuemistudy.github.io/post/ios-ji-zhu-zhi-chi-wang-zhi/">
+        </link>
+        <updated>2022-05-19T02:37:34.000Z</updated>
+        <content type="html"><![CDATA[<p>如果您在使用我们的产品时遇到任何问题，请随时与我们联系，我们将全意为您解决。请发送邮箱与我们联系，我们24小时为您服务。</p>
+<p>邮箱:yuemicall@163.com</p>
+<p>IOS supports web addresses</p>
+<p>If you encounter any problem when using our products, please feel free to contact us and we will take care of it for you. Please send email to contact us, we are 24 hours for your service.</p>
+<p>Email address:yuemicall@163.com</p>
+<p>Thank you very much!。</p>
+]]></content>
+    </entry>
+</feed>
